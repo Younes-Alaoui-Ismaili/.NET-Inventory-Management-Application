@@ -1,7 +1,3 @@
-Voici le README complet et mis à jour pour le projet **InventoryMaster - Stock Control System** avec la capture d'écran intégrée :
-
----
-
 # InventoryMaster - Stock Control System
 
 **InventoryMaster** is a robust and user-friendly stock control system developed in **C#** with a **SQL Server** backend. It enables businesses to efficiently manage their inventory, track stock levels, and generate insightful reports.
@@ -95,4 +91,4 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 ## License
 
-This project is licensed under the **IoT-EXPERT** License. Unauthorized use, reproduction, or distribution is prohibited unless explicit permission is granted.
+This project is licensed under the **Younes Alaoui Ismaili** License. Unauthorized use, reproduction, or distribution is prohibited unless explicit permission is granted.
